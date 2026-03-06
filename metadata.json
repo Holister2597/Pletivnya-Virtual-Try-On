@@ -1,0 +1,7 @@
+{
+  "name": "Примірочна Плетівні",
+  "description": "Premium virtual knitwear try-on service powered by Gemini AI.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
